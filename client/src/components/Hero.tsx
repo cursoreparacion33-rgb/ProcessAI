@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Clock } from "lucide-react";
-import logo from "@assets/logo_procesia_ai_optimizado_1764272782903.png";
+import logo from "/logo_procesia_ai_optimizado_1764272782903.png";
 import heroBg from "@assets/generated_images/dark_abstract_tech_background.png";
 import ContactDialog from "@/components/ContactDialog";
 
