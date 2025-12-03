@@ -1,5 +1,5 @@
 import { Link } from "wouter";
-import logo from "@assets/logo_procesia_ai_optimizado_1764272782903.png";
+import logo from "/logo_procesia_ai_optimizado_1764272782903.png";
 
 export default function Footer() {
   return (
