@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Link } from "wouter";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import logo from "@assets/logo_procesia_ai_optimizado_1764272782903.png";
+import logo from "/logo_procesia_ai_optimizado_1764272782903.png";
 import { motion } from "framer-motion";
 
 export default function Navbar() {
